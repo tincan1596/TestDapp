@@ -7,6 +7,6 @@ The Project contains 4 important aspects
 
 These 4 aspects are grouped into 2 parts
 -
-- Hardhat environment: Consists of the solidity, testing (mocha and chai), and deployment environment.
-- Webapp consists of the web application and ethers.js integration into the blockchain.
+- Hardhat environment (HardhatEnv) -> Consists of the solidity, testing (mocha and chai), and deployment environment.
+- Web application (web_app) -> consists of the web application and ethers.js integration into the blockchain.
      
